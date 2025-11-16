@@ -1,0 +1,5 @@
+streamlit
+python-doctr
+python-doctr[viz]
+matplotlib
+Pillow
